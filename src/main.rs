@@ -5,8 +5,9 @@
 // mod tuples;
 // mod arrays;
 // mod vectors;
-mod functions;
+// mod functions;
+mod pointer_ref;
 
 fn main() {
-    functions::run();
+    pointer_ref::run();
 }
